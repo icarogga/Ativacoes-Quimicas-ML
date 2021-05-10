@@ -42,7 +42,7 @@ Com as informações das correlações podemos ver que algumas informações de 
 
 ---
 
-<h2 align="center">Gráficos e distribuição 🏁</h2>
+<h2 align="center">Gráficos e Distribuição 🏁</h2>
 
    <p>
 
@@ -69,7 +69,7 @@ Para a nossa previssão vamos experimentar 3 algoritmos: RandomForestClassifier,
 
 ---
 
-<h2 align="center">Conclusões e trabalhos futuros</h2>
+<h2 align="center">Conclusão e trabalhos futuros 🤔</h2>
 
 <p> 
   Após o tunning e treino alcançamos os seguintes resultados:
