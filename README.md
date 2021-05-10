@@ -12,9 +12,9 @@
    
    - [Objetivo 📖](#objetivo-)
    - [Correlações 🛠️](#correlações-%EF%B8%8F)
-   - [Gráficos e Distribuição 🏁](#graficos-e-distribuição-)
+   - [Gráficos e Distribuição 🏁](#gráficos-e-distribuição-)
    - [Modelos e Tunning 📲](#modelos-e-tunning-)
-   - [Conclusão e trabalhos futuros 🤔](#conclusão-e-trabalhos-futuros)
+   - [Conclusão e trabalhos futuros 🤔](#conclusão-e-trabalhos-futuros-)
 
    </p>
 
