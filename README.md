@@ -1,4 +1,4 @@
-<h1 align="center">Projeto imersão de dados Alura</h1>
+<h1 align="center">Ativações Químicas com ML</h1>
 
 <h4 align="center"> 
 	Concluído ✔️
